@@ -1,7 +1,7 @@
 # blockSMS
 
 minSdkVersion 13<br>
-Language - ქართული\n<br>
+Language - ქართული<br>
 Author - Akaki Tkemaladze<br>
 
 სმს ფილტრი მუშაობს სქლ ლაით მონაცემთა ბაზით.<br>
