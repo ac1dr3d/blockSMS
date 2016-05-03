@@ -1,8 +1,8 @@
 # blockSMS
 
-minSdkVersion 13
-Language - ქართული
-Author - Akaki Tkemaladze
+minSdkVersion 13\n
+Language - ქართული\n
+Author - Akaki Tkemaladze\n
 
 სმს ფილტრი მუშაობს სქლ ლაით მონაცემთა ბაზით.
 ინახავს თქვენს მიერ შეყვანილ სიტყვებს და დაბლოკილ სმს-ებს.
